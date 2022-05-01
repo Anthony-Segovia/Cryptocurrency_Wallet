@@ -102,8 +102,9 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
     * Take a screenshot of your address balance and history on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
+![An image shows the transaction hisory.](Streamlit.png)
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
+![An image shows the transaction details.](Ganache.png)
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
