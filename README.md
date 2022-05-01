@@ -1,6 +1,6 @@
 # Cryptocurrency_Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](19-4-challenge-image.png)
 
 ### Background
 
