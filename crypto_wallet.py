@@ -28,8 +28,11 @@ def generate_account(w3):
     # Derive Ethereum Private Key
     private, public = wallet.derive_account("eth")
 
-    # Convert private key into an Ethereum account
+    # Convert private key into an Ethereum account. This created a ganache account that had 0 funds. 
     account = Account.privateKeyToAccount(private)
+    
+    # I added the private key of another ganche account and the transaction worked
+    #account = Account.privateKeyToAccount("26a68e415c4de127d7a18e39de78d6f50330e311b56230d4b111f58babcd2e9c")
 
     return account
 
